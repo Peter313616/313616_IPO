@@ -1,4 +1,9 @@
-﻿using System;
+/*
+* Peter McEwen
+* Febuary 11, 2019
+* calculator to calculate area of rectangle
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
